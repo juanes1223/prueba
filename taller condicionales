@@ -1,0 +1,99 @@
+#taller
+# primeero = int(input("ingresarl el priemer numero "))
+# segundo = int(input("ingresar el segundo numero"))
+    
+# if primeero>segundo:
+#     print("el maor es ",primeero)
+# elif segundo>primeero:
+#     print("el mayor es",segundo)
+# else: print("los numeros son inguales")
+
+# segundo
+
+from nis import match
+
+
+pares = int(input("ingrese un numero "))
+
+if pares % 2 == 0:
+    print("el numero es par",pares)
+else:
+    print("el numero es impar",pares)
+ 
+ match pares:
+    
+
+#3
+# numero = int(input("ingresar un numero"))
+# print("ingrese un numero")
+ 
+
+# unidad= 
+
+# match: unidad==1 
+# print("uno")
+# case: unidad==2
+# print("dos")
+# case: unidad==3
+# print("tres")
+# case: unidad==4
+# print("cuatro")
+# case: unidad==5
+# print("cinco")
+# case: unidad==6
+# print("seis")
+# case: unidad==7
+# print("siete")
+# case: unidad==8
+# print("ocho")
+# case: unidad==9
+# print("nueve")
+# case: unidad==10
+# print("diez")  
+# case 
+#punto 3
+# minutos =int(input("ingrese el numero de minutos hablados"))
+# print("minutos")
+# minutosadicional=int(input("ingrese los miutos adicionales"))
+
+# if minutos>="3":
+#     total= minutos*"200"
+#     if minutos<=:
+#     total=minutos*"200"
+# elif:
+# print("el total a pagar",total)
+
+# else : adicional = minutos - "3"
+# total="600"+(minutosadicional*"100")
+
+# else:
+# print("el dato es incorrecto")
+
+# print("ventas de la granja ")
+# n = int(input("ingrese la cantidad de conejos"))
+# c1 = int(input("ingrese la cantidad de conejos blancos"))
+# c2 = int(input("ingrese la cantidad de conejos negros"))
+# x = int(input("cantidad de  conejos negors vendidos"))
+# y = int(input("cantidad de conejos blancos vendidos"))
+
+# p1 = 700
+# p2 = 600
+
+# conejosvendidos= x + y
+# precio=(p1*y)+(p2*x)
+# print("la cantidad de conejos vedidos es",conejosvendidos)
+# print("valor total de la venta $",precio)
+# if x>n or x<0
+#     print("error")
+
+    
+
+
+
+
+
+  
+
+
+
+

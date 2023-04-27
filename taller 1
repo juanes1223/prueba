@@ -1,0 +1,81 @@
+#ejecicio 1
+# a = 40
+# b = 2
+# c =7
+
+# resultado = a + b * c**b
+# print("El resultado es", resultado)
+
+#punto 2
+# a = 3
+# b = 2
+# c = 5 
+# d = 1
+
+# resultado = a + (b+c)*d+(a-b*a)
+# print("el resultado es",resultado)
+
+#punto3
+# a = 16
+# b = 8
+# c = 10
+# d = 5 
+# e = 4
+
+# resultado = a - b*(c-(d+e))
+# print("el resultado es",resultado)
+
+#punto 4
+# a = 5
+# b = 3
+# c = 2
+# d = 7
+# e = 1
+# resultado =(a +b*c)-(d*c)*(b+(c*b-e))
+# print ("el resultado es",resultado)
+
+#punto 5
+# a = 24
+# b = 220
+# c = 3
+# d = 2
+ 
+# resultado =(a +b)/c*d
+# print("el resultado es",resultado)
+
+#punto 6
+# a = 6
+# b = 3
+# c = 2
+# d = 7
+# e = 1
+# f = 4
+# resultado = (a/b*c)-(d*c)+(c*(b+(c/b-f)*f))
+# print("el resultado es",resultado)
+
+#ejecicio 2
+
+# a = 29.7
+# b = 5.0
+# c = 2.0
+ 
+# resultado = a + b**c
+# print("el resultado es",resultado)
+
+#b
+# a = 2
+# b = 3
+# c = 4
+# d = 5
+# e = 9
+# resultado = ((a -b)**c*d/(c+b*e))
+# print ("el resultado es",resultado)
+
+#c
+# a = 49.34 
+# b = 127.73
+# c = 15.02
+# d =  6.83
+# e = 3.22
+# resultado = a + b - c*d/e
+# print ("el resultado es",resultado)
